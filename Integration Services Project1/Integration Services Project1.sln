@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Integration Services Project1", "Integration Services Project1\Integration Services Project1.dtproj", "{9AA8509D-C494-46CE-A97E-4BE956F9976B}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Integration Services Project2", "Integration Services Project2\Integration Services Project2.dtproj", "{46505060-9FDE-4F5E-A963-95068EFECA0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5F66E691-5004-4760-B705-B22446455F26}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "NewQuery", "NewQuery\NewQuery.dtproj", "{30AE77C3-D024-4453-8220-43BBC9700A52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AA8509D-C494-46CE-A97E-4BE956F9976B}.Development|Default.ActiveCfg = Development
+		{9AA8509D-C494-46CE-A97E-4BE956F9976B}.Development|Default.Build.0 = Development
+		{46505060-9FDE-4F5E-A963-95068EFECA0E}.Development|Default.ActiveCfg = Development
+		{46505060-9FDE-4F5E-A963-95068EFECA0E}.Development|Default.Build.0 = Development
+		{30AE77C3-D024-4453-8220-43BBC9700A52}.Development|Default.ActiveCfg = Development
+		{30AE77C3-D024-4453-8220-43BBC9700A52}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78061E60-43DF-46A3-9AC5-54F126E07E15}
+	EndGlobalSection
+EndGlobal
